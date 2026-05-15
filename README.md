@@ -39,8 +39,11 @@ The project includes several STL files for 3D printing custom mounts to attach t
 - `blind_stick_incomplete.stl`: A reference or work-in-progress model.
 
 ### 3. Photos & Diagrams (`photos/`)
-- `Circuit Diagram Picture.png`: A clear Fritzing wiring diagram showing the connections between the Arduino Uno, the 3 HC-SR04 sensors, the buzzer, and the power supply.
-- `image1.jpg` & `image2.jpg`: Actual photos of the fully assembled project, showcasing the 3D-printed sensor array at the base, white wire channeling, the main electronics enclosure, the external buzzer, and the dual battery pack mounted securely to the stick.
+- **Circuit Diagram**: A clear Fritzing wiring diagram showing the connections between the Arduino Uno, the 3 HC-SR04 sensors, the buzzer, and the power supply.
+  ![Circuit Diagram](photos/Circuit%20Diagram%20Picture.png)
+
+- **Fully Assembled Project**: Actual photos showcasing the 3D-printed sensor array at the base, white wire channeling, the main electronics enclosure, the external buzzer, and the dual battery pack mounted securely to the stick.
+  ![Stick Photo 1](photos/image1.jpg)
 
 ## Assembly & Wiring Instructions
 
